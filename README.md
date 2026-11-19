@@ -1,12 +1,14 @@
 # 👋 Hi there, I'm Otávio Justino
 
-Student of Systems Analysis and Development in FATEC Ribeirão Preto.
+Systems Analysis and Development student at FATEC Ribeirão Preto.
+
+Exploring software development, data structures and web technologies while continuously building my programming skills.
 
 ## 🚀 Current Projects 
 
 - A React anime website using the AniList API, with detail pages and top-rated lists
 - A user API in TypeScript, connected to a database and a frontend (login and profile)
-- [Data Structures in C](https://github.com/OtavioJustino/Library-Management-System-in-C.git) Library Management System in C 
+- [Library Management System in C](https://github.com/OtavioJustino/Library-Management-System-in-C.git)
 
 ## 💻 Currently Using 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -14,6 +16,7 @@ Student of Systems Analysis and Development in FATEC Ribeirão Preto.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ##  📖 Currently Learning 
